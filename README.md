@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/jebrannnnn12413/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jebrannnnn12413/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/jebrannnnn12413/DSA/tree/master/0704-binary-search) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/jebrannnnn12413/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Matrix
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jebrannnnn12413/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/jebrannnnn12413/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 ## Prefix Sum
 |  |
 | ------- |
