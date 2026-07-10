@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/jebrannnnn12413/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/jebrannnnn12413/DSA/tree/master/0242-valid-anagram) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jebrannnnn12413/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jebrannnnn12413/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/jebrannnnn12413/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/jebrannnnn12413/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/jebrannnnn12413/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/jebrannnnn12413/DSA/tree/master/0414-third-maximum-number) |
 ## Dynamic Programming
 |  |
@@ -137,5 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jebrannnnn12413/DSA/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/jebrannnnn12413/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jebrannnnn12413/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
