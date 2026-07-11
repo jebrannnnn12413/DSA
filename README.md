@@ -135,10 +135,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/jebrannnnn12413/DSA/tree/master/0410-split-array-largest-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/jebrannnnn12413/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/jebrannnnn12413/DSA/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/jebrannnnn12413/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jebrannnnn12413/DSA/tree/master/0344-reverse-string) |
+| [1903-largest-odd-number-in-string](https://github.com/jebrannnnn12413/DSA/tree/master/1903-largest-odd-number-in-string) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/jebrannnnn12413/DSA/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
