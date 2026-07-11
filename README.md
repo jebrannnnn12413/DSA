@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jebrannnnn12413/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jebrannnnn12413/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jebrannnnn12413/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1539-kth-missing-positive-number](https://github.com/jebrannnnn12413/DSA/tree/master/1539-kth-missing-positive-number) |
 ## Matrix
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jebrannnnn12413/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jebrannnnn12413/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0229-majority-element-ii) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
