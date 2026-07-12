@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/jebrannnnn12413/DSA/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/jebrannnnn12413/DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/jebrannnnn12413/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/jebrannnnn12413/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/jebrannnnn12413/DSA/tree/master/0344-reverse-string) |
 ## Binary Search
 |  |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/jebrannnnn12413/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/jebrannnnn12413/DSA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/jebrannnnn12413/DSA/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/jebrannnnn12413/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/jebrannnnn12413/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jebrannnnn12413/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jebrannnnn12413/DSA/tree/master/0387-first-unique-character-in-a-string) |
