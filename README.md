@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jebrannnnn12413/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jebrannnnn12413/DSA/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jebrannnnn12413/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0796-rotate-string](https://github.com/jebrannnnn12413/DSA/tree/master/0796-rotate-string) |
 | [1903-largest-odd-number-in-string](https://github.com/jebrannnnn12413/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Math
 |  |
@@ -174,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/jebrannnnn12413/DSA/tree/master/0014-longest-common-prefix) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/jebrannnnn12413/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
