@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jebrannnnn12413/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jebrannnnn12413/DSA/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/jebrannnnn12413/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/jebrannnnn12413/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jebrannnnn12413/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jebrannnnn12413/DSA/tree/master/0162-find-peak-element) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jebrannnnn12413/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/jebrannnnn12413/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/jebrannnnn12413/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/jebrannnnn12413/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0229-majority-element-ii) |
@@ -215,4 +217,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/jebrannnnn12413/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/jebrannnnn12413/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
