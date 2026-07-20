@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/jebrannnnn12413/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/jebrannnnn12413/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jebrannnnn12413/DSA/tree/master/0066-plus-one) |
 | [1903-largest-odd-number-in-string](https://github.com/jebrannnnn12413/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
@@ -221,4 +222,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jebrannnnn12413/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/jebrannnnn12413/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
