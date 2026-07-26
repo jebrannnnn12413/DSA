@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/jebrannnnn12413/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jebrannnnn12413/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/jebrannnnn12413/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/jebrannnnn12413/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jebrannnnn12413/DSA/tree/master/0875-koko-eating-bananas) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jebrannnnn12413/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jebrannnnn12413/DSA/tree/master/0242-valid-anagram) |
 | [0414-third-maximum-number](https://github.com/jebrannnnn12413/DSA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/jebrannnnn12413/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jebrannnnn12413/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jebrannnnn12413/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jebrannnnn12413/DSA/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/jebrannnnn12413/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Queue
 |  |
