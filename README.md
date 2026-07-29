@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/jebrannnnn12413/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jebrannnnn12413/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/jebrannnnn12413/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/jebrannnnn12413/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/jebrannnnn12413/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/jebrannnnn12413/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jebrannnnn12413/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/jebrannnnn12413/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jebrannnnn12413/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/jebrannnnn12413/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jebrannnnn12413/DSA/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1903-largest-odd-number-in-string](https://github.com/jebrannnnn12413/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/jebrannnnn12413/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Queue
 |  |
 | ------- |
@@ -256,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/jebrannnnn12413/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/jebrannnnn12413/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
