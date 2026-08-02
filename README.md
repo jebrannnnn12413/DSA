@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/jebrannnnn12413/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jebrannnnn12413/DSA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/jebrannnnn12413/DSA/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jebrannnnn12413/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/jebrannnnn12413/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jebrannnnn12413/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/jebrannnnn12413/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/jebrannnnn12413/DSA/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/jebrannnnn12413/DSA/tree/master/0410-split-array-largest-sum) |
+| [0877-stone-game](https://github.com/jebrannnnn12413/DSA/tree/master/0877-stone-game) |
 ## Counting
 |  |
 | ------- |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jebrannnnn12413/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jebrannnnn12413/DSA/tree/master/0066-plus-one) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/jebrannnnn12413/DSA/tree/master/0877-stone-game) |
 | [1903-largest-odd-number-in-string](https://github.com/jebrannnnn12413/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jebrannnnn12413/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jebrannnnn12413/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -271,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/jebrannnnn12413/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/jebrannnnn12413/DSA/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
