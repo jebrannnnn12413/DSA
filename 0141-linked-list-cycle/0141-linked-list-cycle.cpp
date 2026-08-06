@@ -8,17 +8,20 @@
  */
 class Solution {
 public:
-    bool hasCycle(ListNode* head) {
-        unordered_map<ListNode*, int> mpp;
-        ListNode* temp = head;
+    bool hasCycle(ListNode *head) {
 
-        while (temp != NULL) {
-            if (mpp.find(temp) != mpp.end()) {
+        ListNode* fast=head;
+        ListNode* slow=head;
+
+        while(fast!=NULL && fast->next!=NULL){
+            fast=fast->next->next;
+            slow=slow->next;
+
+            if(slow==fast){
                 return true;
             }
-            mpp[temp] = 1;
-            temp = temp->next;
         }
         return false;
+        
     }
 };
