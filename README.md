@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/jebrannnnn12413/DSA/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1472-design-browser-history](https://github.com/jebrannnnn12413/DSA/tree/master/1472-design-browser-history) |
 | [1539-kth-missing-positive-number](https://github.com/jebrannnnn12413/DSA/tree/master/1539-kth-missing-positive-number) |
 | [3731-find-missing-elements](https://github.com/jebrannnnn12413/DSA/tree/master/3731-find-missing-elements) |
 ## Matrix
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/jebrannnnn12413/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/jebrannnnn12413/DSA/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/jebrannnnn12413/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1472-design-browser-history](https://github.com/jebrannnnn12413/DSA/tree/master/1472-design-browser-history) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jebrannnnn12413/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/jebrannnnn12413/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/jebrannnnn12413/DSA/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/jebrannnnn12413/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1472-design-browser-history](https://github.com/jebrannnnn12413/DSA/tree/master/1472-design-browser-history) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jebrannnnn12413/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Game Theory
 |  |
@@ -351,4 +354,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/jebrannnnn12413/DSA/tree/master/0023-merge-k-sorted-lists) |
+## Design
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/jebrannnnn12413/DSA/tree/master/1472-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/jebrannnnn12413/DSA/tree/master/1472-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1472-design-browser-history](https://github.com/jebrannnnn12413/DSA/tree/master/1472-design-browser-history) |
 <!---LeetCode Topics End-->
