@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jebrannnnn12413/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jebrannnnn12413/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jebrannnnn12413/DSA/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/jebrannnnn12413/DSA/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/jebrannnnn12413/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/jebrannnnn12413/DSA/tree/master/1406-stone-game-iii) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/jebrannnnn12413/DSA/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/jebrannnnn12413/DSA/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/jebrannnnn12413/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/jebrannnnn12413/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/jebrannnnn12413/DSA/tree/master/0234-palindrome-linked-list) |
 ## Heap (Priority Queue)
 |  |
@@ -366,4 +368,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/jebrannnnn12413/DSA/tree/master/1472-design-browser-history) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/jebrannnnn12413/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
