@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/jebrannnnn12413/DSA/tree/master/1472-design-browser-history) |
 | [1539-kth-missing-positive-number](https://github.com/jebrannnnn12413/DSA/tree/master/1539-kth-missing-positive-number) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jebrannnnn12413/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/jebrannnnn12413/DSA/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jebrannnnn12413/DSA/tree/master/0054-spiral-matrix) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/jebrannnnn12413/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
 | ------- |
