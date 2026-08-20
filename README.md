@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/jebrannnnn12413/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/jebrannnnn12413/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/jebrannnnn12413/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/jebrannnnn12413/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jebrannnnn12413/DSA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/jebrannnnn12413/DSA/tree/master/0118-pascals-triangle) |
@@ -373,6 +374,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/jebrannnnn12413/DSA/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/jebrannnnn12413/DSA/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jebrannnnn12413/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/jebrannnnn12413/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
