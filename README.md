@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/jebrannnnn12413/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/jebrannnnn12413/DSA/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/jebrannnnn12413/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/jebrannnnn12413/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/jebrannnnn12413/DSA/tree/master/0152-maximum-product-subarray) |
@@ -375,10 +376,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/jebrannnnn12413/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/jebrannnnn12413/DSA/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jebrannnnn12413/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
 | ------- |
 | [0078-subsets](https://github.com/jebrannnnn12413/DSA/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
