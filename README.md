@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/jebrannnnn12413/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jebrannnnn12413/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jebrannnnn12413/DSA/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/jebrannnnn12413/DSA/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/jebrannnnn12413/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/jebrannnnn12413/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/jebrannnnn12413/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/jebrannnnn12413/DSA/tree/master/0066-plus-one) |
+| [0204-count-primes](https://github.com/jebrannnnn12413/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/jebrannnnn12413/DSA/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/jebrannnnn12413/DSA/tree/master/0877-stone-game) |
@@ -387,4 +389,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/jebrannnnn12413/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0090-subsets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jebrannnnn12413/DSA/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jebrannnnn12413/DSA/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jebrannnnn12413/DSA/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jebrannnnn12413/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/jebrannnnn12413/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
