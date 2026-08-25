@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jebrannnnn12413/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/jebrannnnn12413/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/jebrannnnn12413/DSA/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/jebrannnnn12413/DSA/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jebrannnnn12413/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jebrannnnn12413/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jebrannnnn12413/DSA/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/jebrannnnn12413/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/jebrannnnn12413/DSA/tree/master/0451-sort-characters-by-frequency) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/jebrannnnn12413/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/jebrannnnn12413/DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/jebrannnnn12413/DSA/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/jebrannnnn12413/DSA/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/jebrannnnn12413/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/jebrannnnn12413/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/jebrannnnn12413/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/jebrannnnn12413/DSA/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/jebrannnnn12413/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/jebrannnnn12413/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jebrannnnn12413/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jebrannnnn12413/DSA/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/jebrannnnn12413/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/jebrannnnn12413/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/jebrannnnn12413/DSA/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/jebrannnnn12413/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/jebrannnnn12413/DSA/tree/master/1406-stone-game-iii) |
@@ -397,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/jebrannnnn12413/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/jebrannnnn12413/DSA/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/jebrannnnn12413/DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/jebrannnnn12413/DSA/tree/master/0268-missing-number) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jebrannnnn12413/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
