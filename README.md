@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/jebrannnnn12413/DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/jebrannnnn12413/DSA/tree/master/0258-add-digits) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/jebrannnnn12413/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
 |  |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/jebrannnnn12413/DSA/tree/master/0066-plus-one) |
 | [0204-count-primes](https://github.com/jebrannnnn12413/DSA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/jebrannnnn12413/DSA/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/jebrannnnn12413/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jebrannnnn12413/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jebrannnnn12413/DSA/tree/master/0326-power-of-three) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/jebrannnnn12413/DSA/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/jebrannnnn12413/DSA/tree/master/0258-add-digits) |
 ## Primality Test
 |  |
 | ------- |
