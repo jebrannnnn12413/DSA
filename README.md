@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/jebrannnnn12413/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/jebrannnnn12413/DSA/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/jebrannnnn12413/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/jebrannnnn12413/DSA/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/jebrannnnn12413/DSA/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/jebrannnnn12413/DSA/tree/master/1406-stone-game-iii) |
@@ -323,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/jebrannnnn12413/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/jebrannnnn12413/DSA/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/jebrannnnn12413/DSA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/jebrannnnn12413/DSA/tree/master/0342-power-of-four) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -409,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/jebrannnnn12413/DSA/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/jebrannnnn12413/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/jebrannnnn12413/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/jebrannnnn12413/DSA/tree/master/0342-power-of-four) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/jebrannnnn12413/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Backtracking
 |  |
