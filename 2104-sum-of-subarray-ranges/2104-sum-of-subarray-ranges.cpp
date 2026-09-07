@@ -8,7 +8,7 @@ public:
             for (int j = i + 1; j < nums.size(); j++) {
                 largest = max(largest, nums[j]);
                 smallest = min(smallest, nums[j]);
-                sum = sum + (long long)largest - smallest;
+                sum += (long long)largest - smallest;
             }
         }
         return sum;
