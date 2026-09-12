@@ -5,13 +5,13 @@ public:
         int zero = 0;
         int ans = 0;
 
-            while (r < nums.size()) {
+        while (r < nums.size()) {
             if (nums[r] == 0) {
                 zero++;
             }
-            while (zero > k) {
+            if (zero > k) {
                 if (nums[l] == 0) {
-                zero--;
+                    zero--;
                 }
                 l++;
             }
