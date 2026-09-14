@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/jebrannnnn12413/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/jebrannnnn12413/DSA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jebrannnnn12413/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jebrannnnn12413/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/jebrannnnn12413/DSA/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/jebrannnnn12413/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/jebrannnnn12413/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/jebrannnnn12413/DSA/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/jebrannnnn12413/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jebrannnnn12413/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/jebrannnnn12413/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/jebrannnnn12413/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jebrannnnn12413/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/jebrannnnn12413/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jebrannnnn12413/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jebrannnnn12413/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/jebrannnnn12413/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Trie
 |  |
 | ------- |
