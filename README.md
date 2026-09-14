@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/jebrannnnn12413/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/jebrannnnn12413/DSA/tree/master/1406-stone-game-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jebrannnnn12413/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/jebrannnnn12413/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1472-design-browser-history](https://github.com/jebrannnnn12413/DSA/tree/master/1472-design-browser-history) |
 | [1539-kth-missing-positive-number](https://github.com/jebrannnnn12413/DSA/tree/master/1539-kth-missing-positive-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/jebrannnnn12413/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/jebrannnnn12413/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jebrannnnn12413/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jebrannnnn12413/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Sorting
 |  |
 | ------- |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/jebrannnnn12413/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jebrannnnn12413/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/jebrannnnn12413/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/jebrannnnn12413/DSA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Trie
 |  |
 | ------- |
