@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/jebrannnnn12413/DSA/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/jebrannnnn12413/DSA/tree/master/0735-asteroid-collision) |
+| [0860-lemonade-change](https://github.com/jebrannnnn12413/DSA/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/jebrannnnn12413/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/jebrannnnn12413/DSA/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/jebrannnnn12413/DSA/tree/master/0904-fruit-into-baskets) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/jebrannnnn12413/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/jebrannnnn12413/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/jebrannnnn12413/DSA/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/jebrannnnn12413/DSA/tree/master/0860-lemonade-change) |
 | [1903-largest-odd-number-in-string](https://github.com/jebrannnnn12413/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/jebrannnnn12413/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
