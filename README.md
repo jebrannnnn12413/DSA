@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jebrannnnn12413/DSA/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/jebrannnnn12413/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/jebrannnnn12413/DSA/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/jebrannnnn12413/DSA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/jebrannnnn12413/DSA/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/jebrannnnn12413/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/jebrannnnn12413/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/jebrannnnn12413/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/jebrannnnn12413/DSA/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/jebrannnnn12413/DSA/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/jebrannnnn12413/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/jebrannnnn12413/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/jebrannnnn12413/DSA/tree/master/0152-maximum-product-subarray) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/jebrannnnn12413/DSA/tree/master/0055-jump-game) |
 | [0402-remove-k-digits](https://github.com/jebrannnnn12413/DSA/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/jebrannnnn12413/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/jebrannnnn12413/DSA/tree/master/0455-assign-cookies) |
