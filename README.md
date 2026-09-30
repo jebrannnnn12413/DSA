@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/jebrannnnn12413/DSA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jebrannnnn12413/DSA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/jebrannnnn12413/DSA/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/jebrannnnn12413/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/jebrannnnn12413/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/jebrannnnn12413/DSA/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/jebrannnnn12413/DSA/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/jebrannnnn12413/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/jebrannnnn12413/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/jebrannnnn12413/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/jebrannnnn12413/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/jebrannnnn12413/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/jebrannnnn12413/DSA/tree/master/0342-power-of-four) |
 | [0628-maximum-product-of-three-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/jebrannnnn12413/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/jebrannnnn12413/DSA/tree/master/0877-stone-game) |
 | [1248-count-number-of-nice-subarrays](https://github.com/jebrannnnn12413/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/jebrannnnn12413/DSA/tree/master/1406-stone-game-iii) |
